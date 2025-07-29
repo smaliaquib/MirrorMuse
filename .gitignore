@@ -1,0 +1,13 @@
+.venv
+__pycache__
+
+.env
+.python-version
+
+uv.lock
+sagemaker_execution_role.json
+sagemaker_user_credentials.json
+
+test.py
+tmp_settings.py
+
