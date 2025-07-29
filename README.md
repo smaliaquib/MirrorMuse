@@ -47,10 +47,6 @@ The final trained model is available on **Hugging Face**.
    - `OPENAI_API_KEY`  
    - `HUGGINGFACE_ACCESS_TOKEN`  
    - `COMET_API_KEY` (for Comet ML & Opik)  
-
-4. **Start local infrastructure** (MongoDB, Qdrant, ZenML):  
-   ```bash
-   poetry poe local-infrastructure-up
    ```
 
 ---
