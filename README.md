@@ -1,4 +1,4 @@
-# LLM Engineer's Handbook - End-to-End LLM System  
+# MirrorMuse End-to-End LLM System  
 
 This repository contains the code and resources for building a production-ready LLM-based system, covering everything from data collection to deployment and monitoring.  
 
