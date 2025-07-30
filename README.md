@@ -1,5 +1,3 @@
-Here's the fixed and improved README for MirrorMuse:
-
 # MirrorMuse - End-to-End RAG System  
 
 ## 📌 Overview  
