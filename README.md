@@ -11,7 +11,7 @@ MirrorMuse is a production-ready LLM framework covering the full development lif
 - **📊 RAG System**: Retrieval-Augmented Generation implementation
 - **🚀 Cloud Deployment**: AWS SageMaker integration
 - **🔍 Monitoring**: Comet ML + Opik for tracking
-- **🧪 CI/CD**: GitHub Actions workflows
+#- **🧪 CI/CD**: GitHub Actions workflows
 
 **Pre-trained models available on [Hugging Face](https://huggingface.co/SkillRipper)**
 
