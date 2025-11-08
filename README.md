@@ -1,14 +1,14 @@
 # MirrorMuse - End-to-End RAG System  
 
-## 📌 Overview  
+## Overview  
 
 MirrorMuse is a production-ready LLM framework covering the full development lifecycle:
 
-- **📝 Data Pipeline**: Web crawling, dataset creation, and preprocessing
-- **🔄 Model Training**: Fine-tuning (SFT & DPO) with evaluation
-- **📊 RAG System**: Retrieval-Augmented Generation implementation
-- **🚀 Cloud Deployment**: AWS SageMaker integration
-- **🔍 Monitoring**: Comet ML + Opik for tracking
+- ** Data Pipeline**: Web crawling, dataset creation, and preprocessing
+- ** Model Training**: Fine-tuning (SFT & DPO) with evaluation
+- ** RAG System**: Retrieval-Augmented Generation implementation
+- ** Cloud Deployment**: AWS SageMaker integration
+- ** Monitoring**: Comet ML + Opik for tracking
 
 **Pre-trained models available on [Hugging Face](https://huggingface.co/SkillRipper)**
 
@@ -44,7 +44,7 @@ COMET_API_KEY=your_key
 
 ---
 
-## 🏗️ Infrastructure  
+## Infrastructure  
 
 ### Local Services  
 | Service          | Connection String                                 |
@@ -60,7 +60,7 @@ COMET_API_KEY=your_key
 
 ---
 
-## 🚀 Quick Start  
+## Quick Start  
 
 ### Data Pipeline  
 ```bash
@@ -89,7 +89,7 @@ uv run tools/deploy.py --env prod
 
 ---
 
-## 📝 Usage Notes  
+## Usage Notes  
 
 1. All pipelines support `--no-cache` for fresh runs
 2. Check `configs/` for pipeline configurations
@@ -98,7 +98,7 @@ uv run tools/deploy.py --env prod
 
 ---
 
-## 🔧 Troubleshooting  
+## Troubleshooting  
 
 - **Qdrant issues**: Ensure ports 6333-6334 are free
 - **UV installation**: Use `pip install --force-reinstall uv`
